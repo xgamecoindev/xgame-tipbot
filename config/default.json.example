@@ -59,7 +59,15 @@
       "port": 3340,
       "user": "username",
       "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
-    }
+    } 
+  },
+  "xgame": {
+    "paytxfee": .01,
+    "config": {
+      "port": 35466,
+      "user": "username",
+      "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
+    }    
   },
   "vtl": {
     "paytxfee": .01,
