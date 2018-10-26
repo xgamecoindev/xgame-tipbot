@@ -10,10 +10,11 @@ Features:
     - Ravencoin (RVN)
     - LBRY Credits (LBC)
     - Uniform Fiscal Object (UFO)
-    - ~~Proton (PROTON)~~ Phase(PHASE)
+    - Phase(PHASE)
     - Phoenixcoin (PXC)
     - Feathercoin (FTC)
     - Vertical (VTL)
+    - XGamecoin (XGAME)
 
 
 ## Create a Bot
@@ -40,7 +41,7 @@ https://discordapp.com/oauth2/authorize?client_id=INSERT_CLIENT_ID_HERE&scope=bo
 
     ```
     "rvn": {
-      "paytxfee": .01
+      "paytxfee": .1
       "config":
         "port": 3335,
         "user": "username",
